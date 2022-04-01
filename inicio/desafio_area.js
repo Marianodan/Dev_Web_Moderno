@@ -10,7 +10,6 @@ console.log("O valor da área é "
 
 // Outra forma de fazer é usando o:
 
-
 Math.PI 
 let Raio = 10
 
